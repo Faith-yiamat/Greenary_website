@@ -1,0 +1,1229 @@
+.candles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+
+}
+.vallona{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.Terradium{
+    background-image: url(/imagefol/ThreeImages.jpeg);
+    background-repeat: no-repeat;
+    height: 700px;
+  width: 400px;
+    
+    font-size: smaller;
+
+
+
+}
+.two{
+    
+}
+.Inspiration{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.grow{
+  display: flex;
+  flex-direction: row;
+}
+.salehopl{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: small;
+}
+.images{
+
+    flex-wrap: wrap;
+    display: flex;
+
+}
+.Popcorn{
+    display: flex;
+    flex-direction: row;
+
+}
+.pop{
+    width: 700px;
+    height: 700px;
+    object-fit: cover;
+    margin-bottom: 5%;
+
+}
+.amazing{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  
+}
+.sublime{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.sub{
+    width: 400px;
+    height: 400px;
+}
+.cactus{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flowers{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.testimonials{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: small;
+}
+.Featured{
+  margin-left: 34%;
+}
+.allplants{
+    margin-left: 30%;
+}
+.living{
+    background-image: url(/imagefol/coverim.jpeg);
+    background-repeat: no-repeat;
+    margin-left: 20%;
+   margin-top: 3%;
+}
+.words{
+    margin-left: 8%;
+}
+.amaze{
+    margin-left: 34%;
+}
+.love{
+    margin-left: 30%;
+}
+.goodrange{
+    margin-left: 20%;
+    margin-top: 3%;
+    
+} 
+button{
+    background-color: green;
+} 
+.christi{
+    margin-left: 30%;
+    color: green;
+}   
+@media screen and (min-width:280px) and (max-width:400px) {
+
+    .candles{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    
+    
+    }
+    .vallona{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        font-size: x-small;
+    }
+    .Terradium{
+        background-image: url(/imagefol/ThreeImages.jpeg);
+        background-repeat: no-repeat;
+      font-size: x-small;
+        
+    
+    
+    
+    }
+
+    .Inspiration{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .grow{
+      display: flex;
+      flex-direction: column;
+      font-size: x-small;
+    }
+    .salehopl{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .images{
+    
+        flex-wrap: wrap;
+        display: flex;
+        font-size: x-small;
+    
+    }
+    .Popcorn{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    }
+    .pop{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        margin-bottom: 5%;
+        font-size: x-small;
+    
+    }
+    .amazing{
+      display: grid;
+      grid-template-columns: auto;
+      font-size: x-small;
+      
+    }
+    .sublime{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .sub{
+        width: 200px;
+        height: 200px;
+    }
+    .cactus{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .flowers{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .testimonials{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+        
+    }
+    .Featured{
+      font-size: x-small;
+    }
+    .allplants{
+        font-size: x-small;
+    }
+    .living{
+        background-image: url(/imagefol/coverim.jpeg);
+        background-repeat: no-repeat;
+        margin-top: 3%;
+       font-size: x-small;
+    }
+    .words{
+        font-size: x-small;
+    }
+    .amaze{
+        font-size: x-small;
+    }
+    .love{
+        font-size: x-small;
+    }
+    .goodrange{
+        margin-top: 3%;
+        font-size: x-small;
+        
+    } 
+    button{
+        background-color: green;
+
+    }
+    .journal{
+        width:200px;
+        font-size: x-small;
+
+    } 
+    .Houseplant{
+        width: 200px;
+        font-size: x-small;
+    }  
+    .cacti{
+        width: 200px;
+    } 
+    .icon{
+        width: 20px;
+    }
+    .christi{
+        color: green;
+    } 
+    .image1{
+        width: 200px;
+        height: 200px;
+    }
+}
+@media screen and (min-width:401px) and (max-width:600px) {
+
+    .candles{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    
+    
+    }
+    .vallona{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        font-size: x-small;
+    }
+    .Terradium{
+        background-image: url(/imagefol/ThreeImages.jpeg);
+        background-repeat: no-repeat;
+      font-size: x-small;
+        
+    
+    
+    
+    }
+
+    .Inspiration{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .grow{
+      display: flex;
+      flex-direction: column;
+      font-size: x-small;
+    }
+    .salehopl{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .images{
+    
+        flex-wrap: wrap;
+        display: flex;
+        font-size: x-small;
+    
+    }
+    .Popcorn{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    }
+    .pop{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        margin-bottom: 5%;
+        font-size: x-small;
+    
+    }
+    .amazing{
+      display: grid;
+      grid-template-columns: auto;
+      font-size: x-small;
+      
+    }
+    .sublime{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .sub{
+        width: 200px;
+        height: 200px;
+    }
+    .cactus{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .flowers{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .testimonials{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+        
+    }
+    .Featured{
+      font-size: x-small;
+    }
+    .allplants{
+        font-size: x-small;
+    }
+    .living{
+        background-image: url(/imagefol/coverim.jpeg);
+        background-repeat: no-repeat;
+        margin-top: 3%;
+       font-size: x-small;
+    }
+    .words{
+        font-size: x-small;
+    }
+    .amaze{
+        font-size: x-small;
+    }
+    .love{
+        font-size: x-small;
+    }
+    .goodrange{
+        margin-top: 3%;
+        font-size: x-small;
+        
+    } 
+    button{
+        background-color: green;
+
+    }
+    .journal{
+        width:200px;
+        font-size: x-small;
+
+    } 
+    .Houseplant{
+        width: 200px;
+        font-size: x-small;
+    }  
+    .cacti{
+        width: 200px;
+    } 
+    .icon{
+        width: 20px;
+    }
+    .christi{
+        color: green;
+    } 
+    .image1{
+        width: 200px;
+        height: 200px;
+    }
+}
+@media screen and (min-width:601px) and (max-width:800px) {
+
+    .candles{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    
+    
+    }
+    .vallona{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        font-size: x-small;
+    }
+    .Terradium{
+        background-image: url(/imagefol/ThreeImages.jpeg);
+        background-repeat: no-repeat;
+      font-size: x-small;
+        
+    
+    
+    
+    }
+
+    .Inspiration{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .grow{
+      display: flex;
+      flex-direction: column;
+      font-size: x-small;
+    }
+    .salehopl{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .images{
+    
+        flex-wrap: wrap;
+        display: flex;
+        font-size: x-small;
+    
+    }
+    .Popcorn{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    }
+    .pop{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        margin-bottom: 5%;
+        font-size: x-small;
+    
+    }
+    .amazing{
+      display: grid;
+      grid-template-columns: auto;
+      font-size: x-small;
+      
+    }
+    .sublime{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .sub{
+        width: 200px;
+        height: 200px;
+    }
+    .cactus{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .flowers{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .testimonials{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+        
+    }
+    .Featured{
+      font-size: x-small;
+    }
+    .allplants{
+        font-size: x-small;
+    }
+    .living{
+        background-image: url(/imagefol/coverim.jpeg);
+        background-repeat: no-repeat;
+        margin-top: 3%;
+       font-size: x-small;
+    }
+    .words{
+        font-size: x-small;
+    }
+    .amaze{
+        font-size: x-small;
+    }
+    .love{
+        font-size: x-small;
+    }
+    .goodrange{
+        margin-top: 3%;
+        font-size: x-small;
+        
+    } 
+    button{
+        background-color: green;
+
+    }
+    .journal{
+        width:200px;
+        font-size: x-small;
+
+    } 
+    .Houseplant{
+        width: 200px;
+        font-size: x-small;
+    }  
+    .cacti{
+        width: 200px;
+    } 
+    .icon{
+        width: 20px;
+    }
+    .christi{
+        color: green;
+    } 
+    .image1{
+        width: 200px;
+        height: 200px;
+    }
+}
+@media screen and (min-width:801px) and (max-width:1000px) {
+
+    .candles{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    
+    
+    }
+    .vallona{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        font-size: x-small;
+    }
+    .Terradium{
+        background-image: url(/imagefol/ThreeImages.jpeg);
+        background-repeat: no-repeat;
+      font-size: x-small;
+        
+    
+    
+    
+    }
+
+    .Inspiration{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .grow{
+      display: flex;
+      flex-direction: column;
+      font-size: x-small;
+    }
+    .salehopl{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .images{
+    
+        flex-wrap: wrap;
+        display: flex;
+        font-size: x-small;
+    
+    }
+    .Popcorn{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    }
+    .pop{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        margin-bottom: 5%;
+        font-size: x-small;
+    
+    }
+    .amazing{
+      display: grid;
+      grid-template-columns: auto;
+      font-size: x-small;
+      
+    }
+    .sublime{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .sub{
+        width: 200px;
+        height: 200px;
+    }
+    .cactus{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .flowers{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .testimonials{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+        
+    }
+    .Featured{
+      font-size: x-small;
+    }
+    .allplants{
+        font-size: x-small;
+    }
+    .living{
+        background-image: url(/imagefol/coverim.jpeg);
+        background-repeat: no-repeat;
+        margin-top: 3%;
+       font-size: x-small;
+    }
+    .words{
+        font-size: x-small;
+    }
+    .amaze{
+        font-size: x-small;
+    }
+    .love{
+        font-size: x-small;
+    }
+    .goodrange{
+        margin-top: 3%;
+        font-size: x-small;
+        
+    } 
+    button{
+        background-color: green;
+
+    }
+    .journal{
+        width:200px;
+        font-size: x-small;
+
+    } 
+    .Houseplant{
+        width: 200px;
+        font-size: x-small;
+    }  
+    .cacti{
+        width: 200px;
+    } 
+    .icon{
+        width: 20px;
+    }
+    .christi{
+        color: green;
+    } 
+    .image1{
+        width: 200px;
+        height: 200px;
+    }
+}
+@media screen and (min-width:1001px) and (max-width:1200px) {
+
+    .candles{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    
+    
+    }
+    .vallona{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        font-size: x-small;
+    }
+    .Terradium{
+        background-image: url(/imagefol/ThreeImages.jpeg);
+        background-repeat: no-repeat;
+      font-size: x-small;
+        
+    
+    
+    
+    }
+
+    .Inspiration{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .grow{
+      display: flex;
+      flex-direction: column;
+      font-size: x-small;
+    }
+    .salehopl{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .images{
+    
+        flex-wrap: wrap;
+        display: flex;
+        font-size: x-small;
+    
+    }
+    .Popcorn{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    }
+    .pop{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        margin-bottom: 5%;
+        font-size: x-small;
+    
+    }
+    .amazing{
+      display: grid;
+      grid-template-columns: auto;
+      font-size: x-small;
+      
+    }
+    .sublime{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .sub{
+        width: 200px;
+        height: 200px;
+    }
+    .cactus{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .flowers{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .testimonials{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+        
+    }
+    .Featured{
+      font-size: x-small;
+    }
+    .allplants{
+        font-size: x-small;
+    }
+    .living{
+        background-image: url(/imagefol/coverim.jpeg);
+        background-repeat: no-repeat;
+        margin-top: 3%;
+       font-size: x-small;
+    }
+    .words{
+        font-size: x-small;
+    }
+    .amaze{
+        font-size: x-small;
+    }
+    .love{
+        font-size: x-small;
+    }
+    .goodrange{
+        margin-top: 3%;
+        font-size: x-small;
+        
+    } 
+    button{
+        background-color: green;
+
+    }
+    .journal{
+        width:200px;
+        font-size: x-small;
+
+    } 
+    .Houseplant{
+        width: 200px;
+        font-size: x-small;
+    }  
+    .cacti{
+        width: 200px;
+    } 
+    .icon{
+        width: 20px;
+    }
+    .christi{
+        color: green;
+    } 
+    .image1{
+        width: 200px;
+        height: 200px;
+    }
+}
+@media screen and (min-width:801px) and (max-width:1000px) {
+
+    .candles{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    
+    
+    }
+    .vallona{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        font-size: x-small;
+    }
+    .Terradium{
+        background-image: url(/imagefol/ThreeImages.jpeg);
+        background-repeat: no-repeat;
+      font-size: x-small;
+        
+    
+    
+    
+    }
+
+    .Inspiration{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    
+    }
+    .grow{
+      display: flex;
+      flex-direction: column;
+      font-size: x-small;
+    }
+    .salehopl{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-size: x-small;
+    }
+    .images{
+    
+        flex-wrap: wrap;
+        display: flex;
+        font-size: x-small;
+    
+    }
+    .Popcorn{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    
+    }
+    .pop{
+        
+        object-fit: cover;
+        margin-bottom: 5%;
+        font-size: small;
+    
+    }
+    .amazing{
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      font-size: small;
+      
+    }
+    .sublime{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+    }
+  
+    .cactus{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+    }
+    .flowers{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+    
+    }
+    .testimonials{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+    }
+    .footer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+        
+    }
+    .Featured{
+      font-size: small;
+    }
+    .allplants{
+        font-size: small;
+    }
+    .living{
+        background-image: url(/imagefol/coverim.jpeg);
+        background-repeat: no-repeat;
+        margin-top: 3%;
+       font-size: small;
+    }
+    .words{
+        font-size: small;
+    }
+    .amaze{
+        font-size: small;
+    }
+    .love{
+        font-size: small;
+    }
+    .goodrange{
+        margin-top: 3%;
+        font-size: small;
+        
+    } 
+    button{
+        background-color: green;
+
+}
+}
+@media screen and (min-width:1001px) and (max-width:1200px) {
+
+    .candles{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+        flex-wrap: wrap;
+    
+    
+    
+    }
+    .vallona{
+        display: flex;
+        flex-direction: row;
+        font-size: xx-small;
+        flex-wrap: wrap;
+    }
+    .Terradium{
+        background-image: url(/imagefol/ThreeImages.jpeg);
+        background-repeat: no-repeat;
+      font-size: small;
+        
+    
+    
+    
+    }
+
+    .Inspiration{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: x-small;
+        flex-wrap: wrap;
+    
+    }
+    .grow{
+      display: flex;
+      flex-direction: row;
+      font-size: small;
+      flex-wrap: wrap;
+    }
+    .salehopl{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+        flex-wrap: wrap;
+    }
+    .images{
+    
+        flex-wrap: wrap;
+        display: flex;
+        font-size: small;
+    
+    }
+    .Popcorn{
+        display: flex;
+        flex-direction: row;
+        font-size: small;
+        flex-wrap: wrap;
+    
+    }
+    .pop{
+     
+        object-fit: cover;
+        margin-bottom: 5%;
+        font-size: small;
+    
+    }
+    .amazing{
+      display: grid;
+      grid-template-columns: auto auto auto;
+      font-size: x-small;
+      
+    }
+    .sublime{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size:small;
+        flex-wrap: wrap;
+    }
+    .sub{
+    
+    }
+    .cactus{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+        flex-wrap: wrap;
+    }
+    .flowers{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+        flex-wrap: wrap;
+    
+    }
+    .testimonials{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+        flex-wrap: wrap;
+    }
+    .footer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: small;
+        flex-wrap: wrap;
+        
+    }
+    .Featured{
+      font-size: small;
+    }
+    .allplants{
+        font-size: small;
+    }
+    .living{
+        background-image: url(/imagefol/coverim.jpeg);
+        background-repeat: no-repeat;
+        margin-top: 3%;
+       font-size: small;
+    }
+    .words{
+        font-size: small;
+    }
+    .amaze{
+        font-size: small;
+    }
+    .love{
+        font-size: small;
+    }
+    .goodrange{
+        margin-top: 3%;
+        font-size: small;
+        
+    } 
+    button{
+        background-color: green;
+
+    }
+    .journal{
+      
+        font-size: small;
+
+    } 
+    .Houseplant{
+      
+        font-size: small;
+    }  
+    .cacti{
+    } 
+    .icon{
+    }
+    .christi{
+        color: green;
+    } 
+    .image1{
+    
+    }
+}
